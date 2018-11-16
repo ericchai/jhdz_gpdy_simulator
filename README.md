@@ -5,6 +5,7 @@ modbus TCP salve模拟器
 此模拟器基于python3,使用pymodbus模块，作用是模拟公司的设备，测试服务器端的采集程序。
 
 使用说明：
+
 1.使用pip安装pymodus模块
   
   pip install pymodbus
